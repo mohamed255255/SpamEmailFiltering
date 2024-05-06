@@ -3,8 +3,10 @@
   - Text embedding models like : Word2Vec , Doc2Vec , Bag of Words and TF-IDF
   - Classification models like : Decision tree and logistic regression
  
- 
- 
+ # installations :
+    pip install nltk
+    pip install gensim
+    
  # 1.Notebook Flow Description:
    1. data cleaning, where HTML tags, punctuation, dates, and email addresses are removed 
     from the text data. 
