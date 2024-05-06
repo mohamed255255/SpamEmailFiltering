@@ -58,7 +58,7 @@
    Because they produced the highest accuracy values among the other models on classifying 
   the spam email
 
-<img src="https://github.com/mohamed255255/QuickPay/blob/main/screenshots/reciept.png">
+<img src="https://github.com/mohamed255255/SpamEmailFiltering/blob/main/accuracy.png">
 
 
 
