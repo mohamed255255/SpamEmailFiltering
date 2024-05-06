@@ -26,7 +26,7 @@
    5. Finally evaluating the model accuracies by calling the function in step 4
 
 
- # 2.Data Preprocessing & Features Extraction:
+# 2.Data Preprocessing & Features Extraction:
 
    1.I applied data cleaning in order to removes unnecessary elements like HTML tags, 
    punctuation, dates, and email addresses to improve the quality of text data.
