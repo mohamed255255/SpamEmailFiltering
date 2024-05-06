@@ -28,7 +28,7 @@
 
  # 2.Data Preprocessing & Features Extraction:
 
-   First off I applied data cleaning in order to removes unnecessary elements like HTML tags, 
+   1. I applied data cleaning in order to removes unnecessary elements like HTML tags, 
    punctuation, dates, and email addresses to improve the quality of text data.
    
    2.Tokenization: Splits text into tokens , so each later process focuses only on a single word and 
@@ -43,7 +43,7 @@
    5.Lemmatization: to reduces words to their base or dictionary form 
    We didn’t need stemming because lemmatization is more generalized and more accurate
    
-   6. we applied word embedding to extracts meaningful features from text data, enabling ML
+   6.we applied word embedding to extracts meaningful features from text data, enabling ML
    models to learn patterns and relationships , word2vec and doc2vec are easy to train so I 
    choose them over the others like Bert which is based on transformers and it will take time to
 
