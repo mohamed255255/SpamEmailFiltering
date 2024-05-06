@@ -28,7 +28,7 @@
 
  # 2.Data Preprocessing & Features Extraction:
 
-   1. I applied data cleaning in order to removes unnecessary elements like HTML tags, 
+   1.I applied data cleaning in order to removes unnecessary elements like HTML tags, 
    punctuation, dates, and email addresses to improve the quality of text data.
    
    2.Tokenization: Splits text into tokens , so each later process focuses only on a single word and 
