@@ -30,15 +30,20 @@
 
    First off I applied data cleaning in order to removes unnecessary elements like HTML tags, 
    punctuation, dates, and email addresses to improve the quality of text data.
-   2 .Tokenization: Splits text into tokens , so each later process focuses only on a single word and 
+   
+   2.Tokenization: Splits text into tokens , so each later process focuses only on a single word and 
    it should be added first.
-   3 .Stop word removal: to eliminates common English words that do not contribute much to the 
+   
+   3.Stop word removal: to eliminates common English words that do not contribute much to the 
    meaning of the text like (prepositions , articles , pronouns , conjunctions)
-   4 .Post of word tagging : to classify each word , it is put before lemmatization to improve the 
+   
+   4.Post of word tagging : to classify each word , it is put before lemmatization to improve the 
    accuracy of lemmatization which word is a noun and which is a verb
-   5 .Lemmatization: to reduces words to their base or dictionary form 
+   
+   5.Lemmatization: to reduces words to their base or dictionary form 
    We didn’t need stemming because lemmatization is more generalized and more accurate
-   6 . we applied word embedding to extracts meaningful features from text data, enabling ML
+   
+   6. we applied word embedding to extracts meaningful features from text data, enabling ML
    models to learn patterns and relationships , word2vec and doc2vec are easy to train so I 
    choose them over the others like Bert which is based on transformers and it will take time to
 
