@@ -1,6 +1,7 @@
  # Description
-  Using NLTK library , text embedding models like : Word2Vec , Doc2Vec , Bag of Words and TF-IDF
-  and classification models like : Decision tree and logistic regression
+  - NLTK library
+  - Text embedding models like : Word2Vec , Doc2Vec , Bag of Words and TF-IDF
+  - Classification models like : Decision tree and logistic regression
  
  
  
